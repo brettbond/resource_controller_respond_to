@@ -4,7 +4,7 @@ ResouceControllerRespondTo
 Extends ResourceController plugin for Rails to make it respond_to .xml and .json formats
 
 ResourceController URL: http://github.com/giraffesoft/resource_controller/
-This plugin URL:        http://github.com/jesperronn/resource_controller_respond_to/ 
+This plugin URL:        http://github.com/Averell/resource_controller_respond_to/tree/master 
 
 
 
