@@ -30,3 +30,4 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.3.0}
   s.summary = %q{Extends ResourceController plugin for Rails to make it respond_to .xml and .json formats.}
 end
+
