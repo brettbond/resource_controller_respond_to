@@ -51,5 +51,5 @@ module ResourceControllerRespondTo
   end
 end
 
-ResourceController::Controller.send :include, ResourceControllerRespondTo
+ResourcesController::Controller.send :include, ResourceControllerRespondTo
 
