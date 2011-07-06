@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "0.0.1"
   
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.add_dependency('giraffesoft-resource_controller', '>= 0.6.5')
+  s.add_dependency('resources_controller', '>= 2.0.0')
   
   s.authors = ["jesperronn", "Averell"]
   s.date = %q{2008-11-08}
